@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ws/malta-project-backend"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "ws/malta-project-frontend"
+		}
+	]
+}
