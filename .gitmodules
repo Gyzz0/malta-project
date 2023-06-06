@@ -1,0 +1,6 @@
+[submodule "ws/malta-project-backend"]
+	path = ws/malta-project-backend
+	url = https://github.com/Gyzz0/malta-project-backend.git
+[submodule "ws/malta-project-frontend"]
+	path = ws/malta-project-frontend
+	url = https://github.com/Gyzz0/malta-project-frontend.git
